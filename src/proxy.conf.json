@@ -1,0 +1,20 @@
+{
+  "/ui": {
+    "target": "https://edim-verifier-dev.example.lv/verifier-backend",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/wallet": {
+    "target": "https://edim-verifier-dev.example.lv/verifier-backend",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/utilities": {
+    "target": "https://edim-verifier-dev.example.lv/verifier-backend",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

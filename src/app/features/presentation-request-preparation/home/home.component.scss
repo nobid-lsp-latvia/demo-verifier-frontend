@@ -1,0 +1,30 @@
+
+:host {
+
+  .button-container {
+    display: flex;
+    justify-content: end;
+    gap: 8px;
+    margin-top: 20px;
+  }
+
+  mat-step {
+    div {
+      display: block;
+      padding: 2px;
+    }
+  }
+
+  .query-type-container {
+    margin-bottom: 10px
+  }
+
+  span#as-pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: monospace;
+    unicode-bidi: isolate;
+    margin: 1em 0;
+  }
+
+}
